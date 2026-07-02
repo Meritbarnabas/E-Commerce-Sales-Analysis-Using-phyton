@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Using-phyton
+# E-Commerce-Sales-Analysis-Using-python
 The primary objective of this project is to evaluate product and category performance to optimize inventory and sales strategies.
 
 An analytical data project focused on cleaning, reconstructing, and analyzing e-commerce sales transactions from the GCC region. This project processes raw transactional data to fix data quality issues, extract key performance indicators (KPIs), and deliver actionable business intelligence
